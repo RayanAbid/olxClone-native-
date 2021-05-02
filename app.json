@@ -1,0 +1,12 @@
+{
+  "name": "olxClone",
+  "displayName": "olxClone",
+  "expo": {
+    "name": "olxClone",
+    "slug": "olxClone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
