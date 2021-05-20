@@ -1,5 +1,6 @@
 package com.olxclone;
 
+
 import android.app.Application;
 import android.content.Context;
 import android.net.Uri;
@@ -30,6 +31,12 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
 import java.util.List;
 import javax.annotation.Nullable;
+
+import androidx.multidex.MultiDexApplication; 
+
+public class MainApplication extends MultiDexApplication implements ReactApplication {
+
+
 
 public class MainApplication extends Application implements ReactApplication {
   private final ReactModuleRegistryProvider mModuleRegistryProvider = new ReactModuleRegistryProvider(

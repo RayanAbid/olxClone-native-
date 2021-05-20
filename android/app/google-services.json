@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771266900347",
+    "project_id": "olxfirebasereactnative-ac45a",
+    "storage_bucket": "olxfirebasereactnative-ac45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771266900347:android:53d348ebd213b161ca0dde",
+        "android_client_info": {
+          "package_name": "com.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771266900347-ue0lcleq9nd9bc84p6u9gjfvjljgujjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBv8x8wabT5_NxNZB0nGBdXq5Pnu4lb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771266900347-ue0lcleq9nd9bc84p6u9gjfvjljgujjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771266900347-c35fk8ugsqpb0bcd81tvt676sl8d60f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olxClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

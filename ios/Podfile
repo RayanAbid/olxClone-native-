@@ -10,6 +10,8 @@ target 'olxClone' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  # add pods for desired Firebase products
+  # https://firebase.google.com/docs/ios/setup#available-pods
   # Uncomment to opt-in to using Flipper
   #
   # if !ENV['CI']
